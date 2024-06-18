@@ -1,1 +1,1 @@
-Open the underneath Text.txt file to learn more about HTML.
+Open the above Text.txt file to learn more about HTML.
